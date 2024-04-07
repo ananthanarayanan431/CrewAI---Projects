@@ -1,0 +1,9 @@
+-1----Dict------------------------------------------
+Agent Name: Senior Reserach Analyst Agent
+Tool used: human
+Tool input: Please specify the area of interest for the latest AI advancements that you would like me to focus on.
+Action log: Thought: Do I need to use a tool? Yes
+Action: human
+Action Input: Please specify the area of interest for the latest AI advancements that you would like me to focus on.
+Description: 'str' object has no attribute 'tool_name'
+--------------------------------------------------
